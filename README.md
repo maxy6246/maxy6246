@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Max
 
-<!--
-**maxy6246/maxy6246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student interested in programming and building practical projects.
+I mainly work with Python and enjoy learning new technologies by doing small projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python  
+- OpenCV (Basics)  
+- Git & GitHub  
+- HTML & CSS (Basics)
+
+---
+
+## 📂 Projects
+- Python Mini Projects  
+- Face Detection Attendance System (upcoming)
+
+---
+
+## 🎯 Goals
+- Improve coding skills  
+- Build real-world projects  
+- Prepare for internships and college work  
+
+---
+
+GitHub: https://github.com/maxy6246
